@@ -1,8 +1,8 @@
-# horiseon-accessibility
+# Horiseon website with accessibility improvements
 
-## Horiseon website with accessibility improvements
+## Description
 
-The client, Horiseon, is a marketing agency that has requested a refactor of their website's codebase so that it follows accessibility standards and is optimised for search engines.
+Horiseon is a marketing agency that has requested a refactor of their website's codebase so that it follows accessibility standards and is optimised for search engines.
 
 This is important because:
 

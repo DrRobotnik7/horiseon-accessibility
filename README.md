@@ -25,6 +25,9 @@ No installation steps required, this is a static HTML page
 
 Click in the links in the navigation bar to smoothly scroll to the relevant section of the website
 
+![alt text](assets/images/horiseon-screenshot-1.png)
+![alt text](assets/images/horiseon-screenshot-2.png)
+
 ## Credits
 
 The Sibert-pod-11 gang! It's been a pleasure collaborating with you on our first project and looking forwards to tackling the rest!

@@ -38,7 +38,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -47,10 +47,15 @@ header nav {
     list-style-type: none;
 }
 
-header nav ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+nav ul li a:hover {
+        cursor: pointer;
+        text-decoration: underline;
+  }
 
 .main-image {
         display: block;

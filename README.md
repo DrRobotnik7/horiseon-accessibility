@@ -23,6 +23,8 @@ No installation steps required, this is a static HTML page
 
 ## Usage
 
+URL: https://drrobotnik7.github.io/horiseon-accessibility/
+
 Click in the links in the navigation bar to smoothly scroll to the relevant section of the website
 
 ![Horiseon header and navigation sections](assets/images/horiseon-screenshot-1.png)

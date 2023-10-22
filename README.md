@@ -25,8 +25,8 @@ No installation steps required, this is a static HTML page
 
 Click in the links in the navigation bar to smoothly scroll to the relevant section of the website
 
-![alt text](assets/images/horiseon-screenshot-1.png)
-![alt text](assets/images/horiseon-screenshot-2.png)
+![Horiseon header and navigation sections](starter/assets/images/horiseon-screenshot-1.png)
+![Horiseon content and benefits sections](starter/assets/images/horiseon-screenshot-2.png)
 
 ## Credits
 

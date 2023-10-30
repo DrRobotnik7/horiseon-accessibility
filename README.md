@@ -8,7 +8,7 @@ This is important because:
 
 - It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. 
 - Accessibility boosts search engine optimisation. Accessible sites are better positioned in search engines like Google.
-- Mitigates against potential future litigation in the evevnt that people with disabilities cannot access the website.
+- Mitigates against potential future litigation in the event that people with disabilities cannot access the website.
 
 ## Table of Contents
 
